@@ -366,6 +366,8 @@ img{
 .work_img img{
     transition: 1s;
     cursor: pointer;
+    height: 250px;
+    width: 450px;
 }
 
 .work_img img:hover{
